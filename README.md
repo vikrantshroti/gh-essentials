@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# GitHub essentials
 
-This project was created to demonstrate usage of `GitHub Actions` and Git best practices for branching, squash, submission of PRs.
+This project demonstrates following:
+
+- Git branching, rebase, PR submission and GitHub comments.
+- CI integration as GitHub workflows to run tests.
+- CD integration with `netlify`, live here on `https://inspiring-spence-590c3e.netlify.app/`
+- Unit testing with `React testing library` for components.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
