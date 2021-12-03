@@ -6,7 +6,7 @@
 
 ## 0.0.3
 
-- Adding unit testing for Button and InputText components
+- Adding unit testing for Button and Input components
 
 ## 0.0.2
 
